@@ -31,7 +31,7 @@
 - 🔭 Co-Founder of [Enigma Leet]
 - 👨🏽‍💻 I’m currently studying at  [1337 School](https://1337.ma)
 
-[![Twitter: imthepk](https://img.shields.io/twitter/follow/AyoubAgoumi?style=social)](https://github.com/Ayagoumi)
+[![Twitter: imthepk](https://img.shields.io/twitter/follow/AyoubAgoumi?style=social)](https://twitter.com/AyoubAgoumi)
 [![GitHub Ysrbolles](https://img.shields.io/github/followers/Ayagoumi?style=social)](https://github.com/Ayagoumi)
 [![Linkedin: imthepk](https://img.shields.io/badge/-Ayagoumi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/agoumi-ayoub-07998418a/)](https://www.linkedin.com/in/agoumi-ayoub-07998418a/)
 
