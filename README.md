@@ -30,3 +30,7 @@
 
 - 🔭 Co-Founder of [Enigma Leet]
 - 👨🏽‍💻 I’m currently studying at  [1337 School](https://1337.ma)
+
+https://img.shields.io/twitter/follow/AyoubAgoumi?style=social
+https://img.shields.io/github/followers/Ayagoumi?style=social
+https://img.shields.io/github/stars/Ayagoumi?style=social
