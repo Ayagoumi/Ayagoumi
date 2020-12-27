@@ -15,11 +15,9 @@
 
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=ayagoumi)](https://github.com/Ayagoumi)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ayagoumi&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ayagoumi&theme=merko)](https://github.com/Ayagoumi)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayagoumi&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Wakatime)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayagoumi&layout=demo&theme=merko)](https://github.com/Ayagoumi)
 
 - 🔭 Co-Founder of [Enigma Leet]
 - 👨🏽‍💻 I’m currently studying at  [1337 School](https://1337.ma)
