@@ -15,5 +15,7 @@
 
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=ayagoumi)](https://github.com/Ayagoumi)
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ayagoumi)](https://github.com/anuraghazra/github-readme-stats)
+
 - 🔭 Co-Founder of [Enigma Leet]
 - 👨🏽‍💻 I’m currently studying at  [1337 School](https://1337.ma)
