@@ -17,5 +17,7 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ayagoumi)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayagoumi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 - 🔭 Co-Founder of [Enigma Leet]
 - 👨🏽‍💻 I’m currently studying at  [1337 School](https://1337.ma)
