@@ -1,7 +1,6 @@
-### Hi there 👋
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ### Hi there 👋 Nice to see you.</h1>
+<p>Welcome to my page! </br> My name is Ayoub, Co-Founder of Enigma Leet and 👨🏽‍💻 I’m currently studying at  1337 Coding school
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-<p>Welcome to my page! </br> I'm Yassir, Fullstack developer , Co-Founder of Leafunder and 👨🏽‍💻 I’m currently studying at  1337 Coding school
 <h3>Things I code with</h3>
 <p>
   <img alt="C" src="https://img.shields.io/badge/C-brightgreen?style=flat-square&logo=mongodb&logoColor=white" />
