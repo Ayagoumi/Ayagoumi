@@ -12,6 +12,8 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="TailwindCss" src="https://img.shields.io/badge/TailwindcSS-red?style=flat-square&logo=TailwindCss&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/React-red?style=flat-square&logo=React&logoColor=white" />
+  <img alt="Node" src="https://img.shields.io/badge/Node-red?style=flat-square&logo=Node&logoColor=white" />
+  <img alt="Express" src="https://img.shields.io/badge/Expess-red?style=flat-square&logo=Express&logoColor=white" />
 </p>
 
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=ayagoumi)](https://github.com/Ayagoumi)
