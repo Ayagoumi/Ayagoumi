@@ -1,5 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there 👋 Nice to see you.</h1>
-<p>Welcome to my page! </br> My name is Ayoub, Co-Founder of Enigma Leet and 👨🏽‍💻 I’m currently studying at  1337 Coding school
+<p>Welcome to my page! </br> My name is Ayoub, Working at P-Curiosity Lab, 👨🏽‍💻 I’m currently studying at 1337 Coding school.
 
 <h3>Things I code with</h3>
 <p>
@@ -31,7 +31,7 @@
 </a>
 -->
 
-- 🔭 Co-Founder of [Enigma Leet]
+- 🔭 Developer of [E-Souk] platform.
 - 👨🏽‍💻 I’m currently studying at  [1337 School](https://1337.ma)
 
 [![Twitter: imthepk](https://img.shields.io/twitter/follow/AyoubAgoumi?style=social)](https://twitter.com/AyoubAgoumi)
