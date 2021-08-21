@@ -1,6 +1,6 @@
 <img src="https://komarev.com/ghpvc/?username=aitelkob&color=blue" align="left">
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there 👋 Nice to see you.</h1>
-<p>Welcome to my page! </br> My name is Ayoub, Working at P-Curiosity Lab, 👨🏽‍💻 I’m currently studying at 1337 Coding school.
+<p>Welcome to my page! </br> My name is Ayoub, Working at VOID, 👨🏽‍💻 I’m currently studying at 1337 Coding school.
 
 <h3>Things I code with</h3>
 <p>
