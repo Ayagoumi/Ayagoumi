@@ -24,8 +24,8 @@
   <img alt="css3" src="https://img.shields.io/badge/css-yellow?style=flat-square&logo=css3&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
 </p>
-
-<p>
+</p>
+<p align="center">
   <a href="https://getbootstrap.com" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
@@ -256,7 +256,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayagoumi&layout=demo&theme=merko)](https://github.com/Ayagoumi)
 
 [![stats](https://github-profile-trophy.vercel.app/?username=ayagoumi)](https://github.com/ryo-ma/github-profile-trophy)
-</p>
+
 - 🔭 Developer of [E-Souk] platform.
 - 👨🏽‍💻 I’m currently studying at  [1337 School](https://1337.ma)
 
