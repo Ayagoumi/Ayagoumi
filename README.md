@@ -10,9 +10,9 @@
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/ayagoumi)
 
-- 📫 How to reach me **agoumi94@gmail.com**
+- 📫 How to reach me **[agoumi94@gmail.com](agoumi94@gmail.com)**
 
-- ⚡ Fun fact **I'm a gamer & a nerd*
+- ⚡ Fun fact **I'm a gamer & a nerd**
 
 <h3 align="left">Languages and Tools:</h3>
 <p>
@@ -248,17 +248,19 @@
 
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=ayagoumi)](https://github.com/Ayagoumi)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ayagoumi&theme=merko)](https://github.com/Ayagoumi)
+[![Ayagoumi's github stats](https://github-readme-stats.vercel.app/api?username=Ayagoumi&theme=merko)](https://github.com/Ayagoumi)
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ayagoumi&" alt="ayagoumi" /></p>
+[![Ayagoumi's stats](https://github-readme-streak-stats.herokuapp.com/?user=ayagoumi&theme=merko)](https://github.com/Ayagoumi)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayagoumi&layout=demo&theme=merko)](https://github.com/Ayagoumi)
+
+[![stats](https://github-profile-trophy.vercel.app/?username=ayagoumi)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 Developer of [E-Souk] platform.
 - 👨🏽‍💻 I’m currently studying at  [1337 School](https://1337.ma)
 
-[![Twitter: imthepk](https://img.shields.io/twitter/follow/AyoubAgoumi?style=social)](https://twitter.com/AyoubAgoumi)
-[![GitHub Ysrbolles](https://img.shields.io/github/followers/Ayagoumi?style=social)](https://github.com/Ayagoumi)
-[![Linkedin: imthepk](https://img.shields.io/badge/-Ayagoumi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/agoumi-ayoub-07998418a/)](https://www.linkedin.com/in/agoumi-ayoub-07998418a/)
+[![Twitter: ayagoumi](https://img.shields.io/twitter/follow/AyoubAgoumi?style=social)](https://twitter.com/AyoubAgoumi)
+[![GitHub Ayagoumi](https://img.shields.io/github/followers/Ayagoumi?style=social)](https://github.com/Ayagoumi)
+[![Linkedin: ayagoumi](https://img.shields.io/badge/-Ayagoumi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/agoumi-ayoub-07998418a/)](https://www.linkedin.com/in/agoumi-ayoub-07998418a/)
 
 
