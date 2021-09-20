@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working at [VOID](https://void.fr/)
 
-- 🌱 I’m currently learning **Flutter, React.js, Tailwind CSS, JavaScript,**
+- 🌱 I’m currently learning **Flutter, Next.js, Tailwind CSS, JavaScript,**
 
 - 👯 I’m looking to collaborate on **any React.js**
 
