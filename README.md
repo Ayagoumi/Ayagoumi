@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Flutter, Next.js, Tailwind CSS, JavaScript,**
 
-- 👯 I’m looking to collaborate on **any React.js**
+- 👯 I’m looking to collaborate on **any React.js / Next.js**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/ayagoumi)
 
