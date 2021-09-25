@@ -43,6 +43,7 @@
       height="40"
     />
   </a>
+  <span> </span>
   <a href="https://dart.dev" target="_blank">
     <img
       src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"
@@ -51,6 +52,7 @@
       height="40"
     />
   </a>
+  <span> </span>
   <a href="https://www.electronjs.org" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg"
@@ -59,6 +61,7 @@
       height="40"
     />
   </a>
+  <span> </span>
   <a href="https://expressjs.com" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
@@ -67,6 +70,7 @@
       height="40"
     />
   </a>
+  <span> </span>
   <a href="https://www.figma.com/" target="_blank">
     <img
       src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
@@ -75,6 +79,7 @@
       height="40"
     />
   </a>
+  <span> </span>
   <a href="https://firebase.google.com/" target="_blank">
     <img
       src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
@@ -83,6 +88,7 @@
       height="40"
     />
   </a>
+  <span> </span>
   <a href="https://flutter.dev" target="_blank">
     <img
       src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"
@@ -91,6 +97,7 @@
       height="40"
     />
   </a>
+  <span> </span>
   <a href="https://git-scm.com/" target="_blank">
     <img
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
@@ -99,6 +106,7 @@
       height="40"
     />
   </a>
+  <span> </span>
   <a href="https://www.w3.org/html/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
@@ -107,6 +115,7 @@
       height="40"
     />
   </a>
+  <span> </span>
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank">
     <img
       src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"
@@ -115,10 +124,9 @@
       height="40"
     />
   </a>
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-  >
+  <span> </span>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+    target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript"
@@ -126,6 +134,7 @@
       height="40"
     />
   </a>
+  <span> </span>
   <a href="https://www.linux.org/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
@@ -134,6 +143,7 @@
       height="40"
     />
   </a>
+  <span> </span>
   <a href="https://www.mongodb.com/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
@@ -142,6 +152,7 @@
       height="40"
     />
   </a>
+  <span> </span>
   <a href="https://nodejs.org" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
@@ -150,6 +161,7 @@
       height="40"
     />
   </a>
+  <span> </span>
   <a href="https://www.photoshop.com/en" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
@@ -158,6 +170,7 @@
       height="40"
     />
   </a>
+  <span> </span>
   <a href="https://postman.com" target="_blank">
     <img
       src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
@@ -166,6 +179,7 @@
       height="40"
     />
   </a>
+  <span> </span>
   <a href="https://reactjs.org/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
@@ -174,6 +188,7 @@
       height="40"
     />
   </a>
+  <span> </span>
   <a href="https://sass-lang.com" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
@@ -182,6 +197,7 @@
       height="40"
     />
   </a>
+  <span> </span>
   <a href="https://tailwindcss.com/" target="_blank">
     <img
       src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
@@ -190,6 +206,7 @@
       height="40"
     />
   </a>
+  <span> </span>
   <a href="https://www.adobe.com/products/xd.html" target="_blank">
     <img
       src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg"
@@ -198,6 +215,7 @@
       height="40"
     />
   </a>
+  <span> </span>
   <a href="https://acquia.com" target="_blank">
     <img
       src="https://www.vectorlogo.zone/logos/acquia/acquia-icon.svg"
@@ -206,6 +224,7 @@
       height="40"
     />
   </a>
+  <span> </span>
   <a href="https://rapidapi.com" target="_blank">
     <img
       src="https://www.vectorlogo.zone/logos/rapidapi/rapidapi-icon.svg"
@@ -214,6 +233,7 @@
       height="40"
     />
   </a>
+  <span> </span>
   <a href="https://stackoverflow.com" target="_blank">
     <img
       src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-tile.svg"
@@ -222,6 +242,7 @@
       height="40"
     />
   </a>
+  <span> </span>
   <a href="https://stackexchange.com" target="_blank">
     <img
       src="https://www.vectorlogo.zone/logos/stackexchange/stackexchange-icon.svg"
@@ -230,6 +251,7 @@
       height="40"
     />
   </a>
+  <span> </span>
   <a href="https://canva.com" target="_blank">
     <img
       src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg"
@@ -238,6 +260,7 @@
       height="40"
     />
   </a>
+  <span> </span>
   <a href="https://mongodb.com" target="_blank">
     <img
       src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"
