@@ -25,7 +25,7 @@
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
 </p>
 </p>
-<p align="center">
+<!-- <p align="center">
   <a href="https://getbootstrap.com" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
@@ -269,7 +269,7 @@
       height="40"
     />
   </a>
-</p>
+</p> -->
 
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=ayagoumi)](https://github.com/Ayagoumi)
 
