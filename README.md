@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact **I'm a gamer & a nerd**
 
-<h3 align="left">Languages and Tools:</h3>
+<!-- <h3 align="left">Languages and Tools:</h3>
 <p align="center">
 <p>
   <img alt="C" src="https://img.shields.io/badge/C-brightgreen?style=flat-square&logo=C&logoColor=white" />
@@ -24,7 +24,7 @@
   <img alt="css3" src="https://img.shields.io/badge/css-yellow?style=flat-square&logo=css3&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
 </p>
-</p>
+</p> -->
 <!-- <p align="center">
   <a href="https://getbootstrap.com" target="_blank">
     <img
