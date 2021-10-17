@@ -279,7 +279,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayagoumi&layout=demo&theme=merko)](https://github.com/Ayagoumi)
 
-[![stats](https://github-profile-trophy.vercel.app/?username=ayagoumi)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![stats](https://github-profile-trophy.vercel.app/?username=ayagoumi)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 - 🔭 Developer At VOID.
 - 👨🏽‍💻 I’m currently studying at  [1337 School](https://1337.ma)
