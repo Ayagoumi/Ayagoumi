@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/ayagoumi)
 
-- 📫 How to reach me **[agoumi94@gmail.com](agoumi94@gmail.com)**
+- 📫 How to reach me **[agoumi94@icloud.com](agoumi94@icloud.com)**
 
 - ⚡ Fun fact **I'm a gamer & a nerd**
 
