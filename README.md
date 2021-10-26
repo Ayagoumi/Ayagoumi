@@ -273,9 +273,9 @@
 
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=ayagoumi)](https://github.com/Ayagoumi)
 
-<!-- [![Ayagoumi's github stats](https://github-readme-stats.vercel.app/api?username=Ayagoumi&theme=merko)](https://github.com/Ayagoumi) -->
+[![Ayagoumi's github stats](https://github-readme-stats.vercel.app/api?username=Ayagoumi&theme=merko)](https://github.com/Ayagoumi)
 
-[![Ayagoumi's stats](https://github-readme-streak-stats.herokuapp.com/?user=ayagoumi&theme=merko)](https://github.com/Ayagoumi)
+<!-- [![Ayagoumi's stats](https://github-readme-streak-stats.herokuapp.com/?user=ayagoumi&theme=merko)](https://github.com/Ayagoumi) -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayagoumi&layout=demo&theme=merko)](https://github.com/Ayagoumi) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayagoumi&layout=compact&theme=merko)](https://github.com/Ayagoumi/github-readme-stats) -->
