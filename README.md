@@ -278,7 +278,7 @@
 
 <!-- [![Ayagoumi's stats](https://github-readme-streak-stats.herokuapp.com/?user=ayagoumi&theme=merko)](https://github.com/Ayagoumi) -->
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayagoumi&layout=demo&theme=merko)](https://github.com/Ayagoumi) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayagoumi&layout=demo&theme=merko)](https://github.com/Ayagoumi)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayagoumi&layout=compact&theme=merko)](https://github.com/Ayagoumi/github-readme-stats) -->
 
 <!-- [![stats](https://github-profile-trophy.vercel.app/?username=ayagoumi)](https://github.com/ryo-ma/github-profile-trophy) -->
