@@ -1,4 +1,4 @@
-<img src="https://komarev.com/ghpvc/?username=aitelkob&color=blue" align="left">
+<img src="https://komarev.com/ghpvc/?username=ayagoumi&color=blue" align="left">
 <h1 align="center">Hi 👋, I'm Ayoub Agoumi</h1>
 <h3 align="center">I am a 22 year old aspiring Front-end developer who has advanced experience in many aspects of a web and mobile application</h3>
 
