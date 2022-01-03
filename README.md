@@ -47,9 +47,13 @@
   <summary><b>⚡ Github Stats</b></summary>
   <br />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayagoumi&theme=dracula" />
+	<br/>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ayagoumi&theme=dracula"/>
+	<br/>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayagoumi&theme=dracula"/>
+	<br/>
   <!-- <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayagoumi&theme=dracula"/>
+	<br/>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayagoumi&theme=dracula"/> -->
 </details>
 
