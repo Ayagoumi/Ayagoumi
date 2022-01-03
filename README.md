@@ -1,43 +1,73 @@
-<img src="https://komarev.com/ghpvc/?username=ayagoumi&color=blue" align="left">
-<h1 align="center">Hi 👋, I'm Ayoub Agoumi</h1>
-<h3 align="center">I am a 22 year old aspiring Front-end developer who has advanced experience in many aspects of a web and mobile application</h3>
 
-- 🔭 I’m currently working at [VOID](https://void.fr/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/agoumiayoub/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://agoumi.me/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/AyoubAgoumi)
+![GitHub followers](https://img.shields.io/github/followers/ayagoumi?label=Github&style=flat-square)
 
-- 🌱 I’m currently learning **Flutter, Next.js, Tailwind CSS, JavaScript,**
+<div align="center">
 
-- 👯 I’m looking to collaborate on **any React.js / Next.js**
+# Hi 👋, I'm [Ayoub Agoumi](https://github.com/ayagoumi/)
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/ayagoumi)
+</div>
 
-- 📫 How to reach me **[agoumi94@icloud.com](agoumi94@icloud.com)**
+<div align="center">
 
-- ⚡ Fun fact **I'm a gamer & a nerd**
+### Glad that you are here 
+[![visitors](https://visitor-badge.glitch.me/badge?page_id=${ayagoumi}.${Ayagoumi}&left_color=black&right_color=red)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<br/>
+### I am a Computer Science Student 🎓 at [1337 Coding School](1337.ma) 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Web Development 🕸️.
+<br/>
 
-[![](https://raw.githubusercontent.com/ayagoumi/ayagoumi/main/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/ayagoumi/ayagoumi/main/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ayagoumi/ayagoumi/main/profile-summary-card-output/monokai/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/ayagoumi/ayagoumi/main/profile-summary-card-output/monokai/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ayagoumi/ayagoumi/main/profile-summary-card-output/monokai/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+</div>
 
+### Talking about Personal Stuffs:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rishikagupta2468&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085)](https://git.io/streak-stats)
+- 🔭 &nbsp; Currently working at [VOID](https://void.fr/)
+- 🛠 &nbsp; I’m currently learning / working with **Next.js, Tailwind CSS, JavaScript, etc**
+- 🚀 &nbsp; On a road to becoming a Full Stack Developer.
+- 👯 &nbsp; I’m looking to collaborate on **any React.js / Next.js**
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/ayagoumi).
+- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
+<!-- - 📝 &nbsp; Checkout my [Resume](https://github.com/ayagoumi/ayagoumi/blob/master/resume.pdf). -->
+- 📫 &nbsp; How to reach me **[agoumi94@icloud.com](agoumi94@icloud.com)**
+- ⚡ &nbsp; Fun fact **I'm a gamer & a nerd**
 
+<a href="https://www.buymeacoffee.com/agoumi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 
-  [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=ayagoumi)](https://github.com/Ayagoumi)
+[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&email=hide&dark=true&leet_logo=hide&login=ayagoumi)](https://github.com/Ayagoumi)
 
-  [![Ayagoumi's github stats](https://github-readme-stats.vercel.app/api?username=Ayagoumi&theme=merko)](https://github.com/Ayagoumi)
+<details open>	
+  <summary><b>☄️ Github Streaks</b></summary>
 
-<!-- [![Ayagoumi's stats](https://github-readme-streak-stats.herokuapp.com/?user=ayagoumi&theme=merko)](https://github.com/Ayagoumi) -->
+  <br />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=ayagoumi&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&currStreakLabel=FFB86C&currStreakNum=FFB86C" />
+</details>
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayagoumi&layout=demo&theme=merko)](https://github.com/Ayagoumi) -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayagoumi&layout=compact&theme=merko)](https://github.com/Ayagoumi/github-readme-stats) -->
+<details>	
+  <summary><b>⚡ Github Stats</b></summary>
+  <br />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayagoumi&theme=dracula" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ayagoumi&theme=dracula"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayagoumi&theme=dracula"/>
+  <!-- <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayagoumi&theme=dracula"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayagoumi&theme=dracula"/> -->
+</details>
 
-<!-- [![stats](https://github-profile-trophy.vercel.app/?username=ayagoumi)](https://github.com/ryo-ma/github-profile-trophy) -->
+<details open>	
+  <br />
+  <summary><b>⚙️ Things I use to get stuff done</b></summary>
+  	<ul>
+  	    <li><b>OS:</b> MacOs Montery</li>
+	    <li><b>Laptop: </b> MacBook Pro (i9 2019)</li>
+  	    <li><b>Browser: </b> Firefox Web Browser</li>
+	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
+	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
+	    <li><b>To Stay Updated:</b> Dev.to, Medium, Linkedin, Twitter and StackOverflow (-Don't tell anyone-).</li>
+	</ul>	
+</details>
 
-- 🔭 Developer At VOID.
-- 👨🏽‍💻 I’m currently studying at  [1337 School](https://1337.ma)
+<div align="center">
 
-[![Twitter: ayagoumi](https://img.shields.io/twitter/follow/AyoubAgoumi?style=social)](https://twitter.com/AyoubAgoumi)
-[![GitHub Ayagoumi](https://img.shields.io/github/followers/Ayagoumi?style=social)](https://github.com/Ayagoumi)
-[![Linkedin: ayagoumi](https://img.shields.io/badge/-Ayagoumi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/agoumi-ayoub-07998418a/)](https://www.linkedin.com/in/agoumi-ayoub-07998418a/)
+### Show some ❤️ by starring some of the repositories!
 
-
+</div>
