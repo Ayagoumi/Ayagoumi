@@ -15,7 +15,7 @@
 ### Glad that you are here 
 [![visitors](https://visitor-badge.glitch.me/badge?page_id=${ayagoumi}.${Ayagoumi}&left_color=black&right_color=red)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 <br/>
-### I am a Computer Science Student 🎓 at [1337 Coding School](1337.ma) 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Web Development 🕸️.
+### I am a <b>Front-End Developer 🕸️</b> & Computer Science Student 🎓 at [1337 Coding School](1337.ma) 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.
 <br/>
 
 </div>
@@ -28,36 +28,37 @@
 - 👯 &nbsp; I’m looking to collaborate on **any React.js / Next.js**
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/ayagoumi).
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
-<!-- - 📝 &nbsp; Checkout my [Resume](https://github.com/ayagoumi/ayagoumi/blob/master/resume.pdf). -->
 - 📫 &nbsp; How to reach me **[agoumi94@icloud.com](agoumi94@icloud.com)**
-- ⚡ &nbsp; Fun fact **I'm a gamer & a nerd**
+- ⚡ &nbsp; Fun fact **I'm the worst Apex Legends gamer**
+<!-- - 📝 &nbsp; Checkout my [Resume](https://github.com/ayagoumi/ayagoumi/blob/master/resume.pdf). -->
 
-<a href="https://www.buymeacoffee.com/agoumi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&email=hide&dark=true&leet_logo=hide&login=ayagoumi)](https://github.com/Ayagoumi)
+<details>	
+  <summary><b> 42 Profile Card</summary>
 
-<details open>	
+  <br />
+
+  [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&email=hide&dark=true&leet_logo=hide&login=ayagoumi)](https://github.com/Ayagoumi)
+</details>
+
+<details>	
   <summary><b>☄️ Github Streaks</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=ayagoumi&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&currStreakLabel=FFB86C&currStreakNum=FFB86C" />
 </details>
 
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
   <br />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayagoumi&theme=dracula" />
-	<br/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayagoumi&theme=dracula" />
+  <br/>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ayagoumi&theme=dracula"/>
-	<br/>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayagoumi&theme=dracula"/>
-	<br/>
-  <!-- <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayagoumi&theme=dracula"/>
-	<br/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayagoumi&theme=dracula"/> -->
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayagoumi&theme=dracula"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayagoumi&theme=dracula"/>
 </details>
 
-<details open>	
+<details>	
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
@@ -70,6 +71,9 @@
 	</ul>	
 </details>
 
+</br>
+
+<div align="center"><a href="https://www.buymeacoffee.com/agoumi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a></div>
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
