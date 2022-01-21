@@ -43,7 +43,7 @@
 
 <details>	
   <summary><b>☄️ Github Streaks</b></summary>
-
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=ayagoumi&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&currStreakLabel=FFB86C&currStreakNum=FFB86C" />
   <br />
 </details>
 
