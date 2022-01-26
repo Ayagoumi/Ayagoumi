@@ -23,7 +23,7 @@
 ### Talking about Personal Stuffs:
 
 <!-- - 🔭 &nbsp; Currently working at [VOID](https://void.fr/) -->
-- 🛠 &nbsp; I’m currently learning / working with **Next.js, Tailwind CSS, JavaScript, etc**
+- 🛠 &nbsp; I’m currently learning / working with **Next.js, Tailwind CSS, JavaScript, TypeScript, etc**
 - 🚀 &nbsp; On a road to becoming a Full Stack Developer.
 - 👯 &nbsp; I’m looking to collaborate on **any React.js / Next.js**
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/ayagoumi).
