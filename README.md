@@ -59,10 +59,11 @@
 
   ![Ayagoumi's Github Profile Views](https://komarev.com/ghpvc/?username=ayagoumi&color=blueviolet)  
   
+  <a href="https://github.com/jstrieb/github-stats">
   ![](https://github.com/ayagoumi/ayagoumi/blob/master/generated/overview.svg)
   
   ![](https://github.com/ayagoumi/ayagoumi/blob/master/generated/languages.svg)
-  
+  </a>
   [![Ayagoumi's Github Stats](https://github-readme-stats.vercel.app/api?username=ayagoumi&show_icons=true&count_private=true)](https://github.com/ayagoumi/github-readme-stats)  
 </details>
 
