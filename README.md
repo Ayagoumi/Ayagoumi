@@ -33,13 +33,13 @@
 <!-- - 📝 &nbsp; Checkout my [Resume](https://github.com/ayagoumi/ayagoumi/blob/master/resume.pdf). -->
 
 
-<details>	
+<!-- <details>	
   <summary><b> 42 Profile Card</summary>
 
   <br />
 
   [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&email=hide&dark=true&leet_logo=hide&login=ayagoumi)](https://github.com/Ayagoumi)
-</details>
+</details> -->
 
 <details>	
   <summary><b>☄️ Github Streaks</b></summary>
