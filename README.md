@@ -56,8 +56,6 @@
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayagoumi&theme=dracula"/>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayagoumi&theme=dracula"/>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayagoumi&theme=dracula"/>
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayagoumi&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
 <details>	
