@@ -6,7 +6,7 @@
 
 <div align="center">
 
-# Hi 👋, I'm [Ayoub Agoumi](https://github.com/ayagoumi/)
+# Hi 👋, I'm [Ayoub Agoumi](https://agoumi.me)
 
 </div>
 
