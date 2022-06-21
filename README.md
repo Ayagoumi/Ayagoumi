@@ -22,7 +22,7 @@
 
 ### Talking about Personal Stuffs:
 
-<!-- - 🔭 &nbsp; Currently working at [VOID](https://void.fr/) -->
+- 🔭 &nbsp; Currently working at [Chain4Travel](https://chain4travel.com/)
 - 🛠 &nbsp; I’m currently learning / working with **VueJs, Next.js, Tailwind CSS, JavaScript, TypeScript, etc**
 - 🚀 &nbsp; On a road to becoming a Full Stack Developer.
 - 👯 &nbsp; I’m looking to collaborate on **any React.js / Next.js**
@@ -64,7 +64,7 @@
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS:</b> MacOs Montery</li>
+  	  <li><b>OS:</b> MacOs Montery</li>
 	    <li><b>Laptop: </b> MacBook Pro (i9 2019)</li>
   	    <li><b>Browser: </b> Firefox Web Browser</li>
 	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
