@@ -24,7 +24,7 @@
 
 - 🔭 &nbsp; Currently working at [Chain4Travel](https://chain4travel.com/)
 - 🛠 &nbsp; I’m currently learning / working with **VueJs, Next.js, Tailwind CSS, JavaScript, TypeScript, etc**
-- 🚀 &nbsp; On a road to becoming a Full Stack Developer.
+- 🚀 &nbsp; On a road to becoming a Smart contract developer.
 - 👯 &nbsp; I’m looking to collaborate on **any React.js / Next.js**
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/ayagoumi).
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
