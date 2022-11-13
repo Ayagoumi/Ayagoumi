@@ -57,7 +57,9 @@
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayagoumi&theme=dracula"/>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayagoumi&theme=dracula"/>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayagoumi&langs_count=10&theme=dracula&hide=c,Makefile)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayagoumi&langs_count=5&theme=dracula&hide=c,html,Makefile)](https://github.com/anuraghazra/github-readme-stats)
+
+  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ayagoumi&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
 <details>	
