@@ -25,7 +25,7 @@
 - 🔭 &nbsp; Currently working at [Chain4Travel](https://chain4travel.com/)
 - 🛠 &nbsp; I’m currently learning / working with **VueJs, Next.js, Tailwind CSS, JavaScript, TypeScript, etc**
 - 🚀 &nbsp; On a road to becoming a Smart contract developer.
-- 👯 &nbsp; I’m looking to collaborate on **any React.js / Next.js**
+- 👯 &nbsp; I’m looking to collaborate on **any React.js / Next.js** project.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/ayagoumi).
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me **[agoumi94@icloud.com](agoumi94@icloud.com)**
@@ -59,7 +59,6 @@
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayagoumi&langs_count=5&theme=dracula&hide=c,html,Makefile)](https://github.com/anuraghazra/github-readme-stats)
 
-  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ayagoumi&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
 <details>	
