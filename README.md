@@ -36,17 +36,19 @@
 <!-- - 📝 &nbsp; Checkout my [Resume](https://github.com/ayagoumi/ayagoumi/blob/master/resume.pdf). -->
 
 
-<!-- <details>	
+<details>	
   <summary><b> 42 Profile Card</summary>
 
   <br />
 
-  [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&email=hide&dark=true&leet_logo=hide&login=ayagoumi)](https://github.com/Ayagoumi)
-</details> -->
+<p align="center">
+	<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clavp6tus00400gkumtvfi9ym/stats?cursusId=21&coalitionId=71" alt="ayagoumi's 42 stats" /></a>
+</p>
+</details>
 
 <details>	
   <summary><b>☄️ Github Streaks</b></summary>
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=ayagoumi&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&currStreakLabel=FFB86C&currStreakNum=FFB86C" />
+	<img src="https://badge42.vercel.app/api/v2/clavp6tus00400gkumtvfi9ym/stats?cursusId=21&coalitionId=73" alt="ayagoumi's 42 stats" />
   <br />
 </details>
 
