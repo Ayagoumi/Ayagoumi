@@ -41,9 +41,7 @@
 
   <br />
 
-<p align="center">
-	<img src="https://badge42.vercel.app/api/v2/clavp6tus00400gkumtvfi9ym/stats?cursusId=21&coalitionId=73" alt="ayagoumi's 42 stats" />
-</p>
+<img src="https://badge42.vercel.app/api/v2/clavp6tus00400gkumtvfi9ym/stats?cursusId=21&coalitionId=73" alt="ayagoumi's 42 stats" />
 </details>
 
 <details>	
@@ -59,6 +57,7 @@
   <br/>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ayagoumi&theme=dracula"/>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayagoumi&theme=dracula"/>
+  <br/>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayagoumi&theme=dracula"/>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayagoumi&theme=dracula"/>
 
