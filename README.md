@@ -42,13 +42,13 @@
   <br />
 
 <p align="center">
-	<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clavp6tus00400gkumtvfi9ym/stats?cursusId=21&coalitionId=71" alt="ayagoumi's 42 stats" /></a>
+	<img src="https://badge42.vercel.app/api/v2/clavp6tus00400gkumtvfi9ym/stats?cursusId=21&coalitionId=73" alt="ayagoumi's 42 stats" />
 </p>
 </details>
 
 <details>	
   <summary><b>☄️ Github Streaks</b></summary>
-	<img src="https://badge42.vercel.app/api/v2/clavp6tus00400gkumtvfi9ym/stats?cursusId=21&coalitionId=73" alt="ayagoumi's 42 stats" />
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=ayagoumi&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&currStreakLabel=FFB86C&currStreakNum=FFB86C" />
   <br />
 </details>
 
