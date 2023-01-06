@@ -30,7 +30,7 @@
 - 🚀 &nbsp; On a road to becoming a Smart contract developer.
 - 👯 &nbsp; I’m looking to collaborate on **any React.js / Next.js** project.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/ayagoumi).
-- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
+- 👾 &nbsp; Fun fact: Once you go React there is no turning back.
 - 📫 &nbsp; How to reach me **[agoumi94@icloud.com](agoumi94@icloud.com)**
 - ⚡ &nbsp; Fun fact **I'm the worst Apex Legends gamer**
 <!-- - 📝 &nbsp; Checkout my [Resume](https://github.com/ayagoumi/ayagoumi/blob/master/resume.pdf). -->
