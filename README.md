@@ -74,7 +74,7 @@
   	    <li><b>Browser: </b> Firefox Web Browser</li>
 	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
 	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
-	    <li><b>To Stay Updated:</b> Dev.to, Medium, Linkedin, Twitter and StackOverflow (-Don't tell anyone-).</li>
+	    <li><b>To Stay Updated:</b> ChatGPT, Dev.to, Medium, Linkedin, Twitter and StackOverflow (-Don't tell anyone-).</li>
 	</ul>	
 </details>
 
