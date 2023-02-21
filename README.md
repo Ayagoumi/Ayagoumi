@@ -25,7 +25,7 @@
 
 ### Talking about Personal Stuffs:
 
-- 🔭 &nbsp; Currently working at [Chain4Travel](https://chain4travel.com/)
+<!-- - 🔭 &nbsp; Currently working at [Chain4Travel](https://chain4travel.com/) -->
 - 🛠 &nbsp; I’m currently learning / working with **VueJs, Next.js, Tailwind CSS, JavaScript, TypeScript, etc**
 - 🚀 &nbsp; On a road to becoming a Smart contract developer.
 - 👯 &nbsp; I’m looking to collaborate on **any React.js / Next.js** project.
