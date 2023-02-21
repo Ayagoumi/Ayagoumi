@@ -69,7 +69,7 @@
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	  <li><b>OS:</b> MacOs Montery</li>
+  	  <li><b>OS:</b> macOS Ventura macOS</li>
 	    <li><b>Laptop: </b> MacBook Pro (M2 2023)</li>
   	    <li><b>Browser: </b> Firefox Web Browser</li>
 	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
