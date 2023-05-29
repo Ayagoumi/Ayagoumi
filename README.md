@@ -13,7 +13,7 @@
 <div align="center">
 	
 ### Glad that you are here 
-[![visitors](https://visitor-badge.glitch.me/badge?page_id=${ayagoumi}.${Ayagoumi}&left_color=black&right_color=red)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<!-- [![visitors](https://visitor-badge.glitch.me/badge?page_id=${ayagoumi}.${Ayagoumi}&left_color=black&right_color=red)](https://github.com/vn7n24fzkq/github-profile-summary-cards) -->
 <br/>
 ### Check out [![Agoumi.me](https://agoumi.me)](https://agoumi.me)
 <br/>
@@ -26,13 +26,12 @@
 ### Talking about Personal Stuffs:
 
 <!-- - 🔭 &nbsp; Currently working at [Chain4Travel](https://chain4travel.com/) -->
-- 🛠 &nbsp; I’m currently learning / working with **VueJs, Next.js, Tailwind CSS, JavaScript, TypeScript, etc**
+- 🛠 &nbsp; I’m currently learning / working with **ReactJs, VueJs, Next.js, Tailwind CSS, TypeScript, etc**
 - 🚀 &nbsp; On a road to becoming a Smart contract developer.
-- 👯 &nbsp; I’m looking to collaborate on **any React.js / Next.js** project.
+- 👯 &nbsp; I’m looking to collaborate on **any React.js / Next.js, Solidity** project.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/ayagoumi).
-- 👾 &nbsp; Fun fact: Once you go React there is no turning back.
 - 📫 &nbsp; How to reach me **[agoumi94@icloud.com](agoumi94@icloud.com)**
-- ⚡ &nbsp; Fun fact **I'm the worst Apex Legends gamer**
+- 👾 &nbsp; Fun fact **I'm the greatest Apex Legends player**
 <!-- - 📝 &nbsp; Checkout my [Resume](https://github.com/ayagoumi/ayagoumi/blob/master/resume.pdf). -->
 
 
@@ -46,22 +45,22 @@
 
 <details>	
   <summary><b>☄️ Github Streaks</b></summary>
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=ayagoumi&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&currStreakLabel=FFB86C&currStreakNum=FFB86C" />
+    <img height="200em" src="https://github-readme-streak-stats.herokuapp.com?user=ayagoumi&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&currStreakLabel=FFB86C&currStreakNum=FFB86C" />
   <br />
 </details>
 
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
   <br />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayagoumi&theme=dracula" />
+  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayagoumi&theme=dracula" />
   <br/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ayagoumi&theme=dracula"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayagoumi&theme=dracula"/>
+  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ayagoumi&theme=dracula"/>
+  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayagoumi&theme=dracula"/>
   <br/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayagoumi&theme=dracula"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayagoumi&theme=dracula"/>
+  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayagoumi&theme=dracula"/>
+  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayagoumi&theme=dracula"/>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayagoumi&langs_count=5&theme=dracula&hide=c,html,Makefile)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayagoumi&theme=dracula&hide=c)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
@@ -74,7 +73,7 @@
   	    <li><b>Browser: </b> Firefox Web Browser</li>
 	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
 	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
-	    <li><b>To Stay Updated:</b> ChatGPT, Dev.to, Medium, Linkedin, Twitter and StackOverflow (-Don't tell anyone-).</li>
+	    <li><b>To Stay Updated:</b>Dev.to, Medium, Linkedin, Twitter and StackOverflow.</li>
 	</ul>	
 </details>
 
