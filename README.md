@@ -3,7 +3,7 @@
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://agoumi.me/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/AyoubAgoumi)
 ![GitHub followers](https://img.shields.io/github/followers/ayagoumi?label=Github&style=flat-square)
-<!-- [![visitors](https://visitor-badge.glitch.me/badge?page_id=${ayagoumi}.${Ayagoumi}&left_color=black&right_color=red)](https://github.com/vn7n24fzkq/github-profile-summary-cards) -->
+[![visitors](https://visitor-badge.glitch.me/badge?page_id=${ayagoumi}.${Ayagoumi}&left_color=black&right_color=red)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 <div align="center">
 
