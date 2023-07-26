@@ -4,6 +4,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/AyoubAgoumi)
 ![GitHub followers](https://img.shields.io/github/followers/ayagoumi?label=Github&style=flat-square)
 [![visitors](https://visitor-badge.glitch.me/badge?page_id=${ayagoumi}.${Ayagoumi}&left_color=black&right_color=red)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![visitors](https://visitor-badge.glitch.me/badge?page_id={ayagoumi}&left_color=green&right_color=red)
 
 <div align="center">
 
