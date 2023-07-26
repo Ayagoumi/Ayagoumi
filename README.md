@@ -24,11 +24,11 @@
 
 </div>
 
-### Talking about Personal Stuffs:
+### Talking about Personal Stuff:
 
 <!-- - 🔭 &nbsp; Currently working at [Chain4Travel](https://chain4travel.com/) -->
-- 🛠 &nbsp; I’m currently learning / working with **ReactJs, VueJs, Next.js, Tailwind CSS, TypeScript, etc**
-- 🚀 &nbsp; On a road to becoming a Smart contract developer.
+- 🛠 &nbsp; I’m currently learning/working with **ReactJs, VueJs, Next.js, Tailwind CSS, TypeScript, etc**
+- 🚀 &nbsp; On the road to becoming a Smart contract developer.
 - 👯 &nbsp; I’m looking to collaborate on **any React.js / Next.js, Solidity** project.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/ayagoumi).
 - 📫 &nbsp; How to reach me **[agoumi94@icloud.com](agoumi94@icloud.com)**
