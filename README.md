@@ -1,12 +1,6 @@
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/agoumiayoub/)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://agoumi.me/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/AyoubAgoumi)
-![GitHub followers](https://img.shields.io/github/followers/ayagoumi?label=Github&style=flat-square)
-
 <div align="center">
 
-# Hi 👋, I'm [Ayoub Agoumi](https://agoumi.me)
+# Hi 👋, I'm Ayoub Agoumi
 
 </div>
 
@@ -15,7 +9,7 @@
 ### Glad that you are here 
 <br/>
 	
-### Check out [Agoumi.me](https://agoumi.me)
+### Check out my portfolio at [Agoumi.me](https://agoumi.me)
 <br/>
 	
 ### I am a <b>Front-End Developer 🕸️</b> & Alumni 🎓 from [1337 Coding School](https://1337.ma) 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨, Currently exploring the world of decentralization.
@@ -85,3 +79,9 @@
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/agoumiayoub/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://agoumi.me/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/AyoubAgoumi)
+![GitHub followers](https://img.shields.io/github/followers/ayagoumi?label=Github&style=flat-square)
