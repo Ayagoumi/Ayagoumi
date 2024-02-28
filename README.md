@@ -12,7 +12,7 @@
 ### Check out my portfolio at [Agoumi.me](https://agoumi.me)
 <br/>
 	
-### I am a <b>Front-End Developer 🕸️</b> & Alumni 🎓 from [1337 Coding School](https://1337.ma) 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨, Currently exploring the world of decentralization.
+### I am a <b>Front-End Developer 🕸️</b>. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨, Currently exploring the world of decentralization.
 <br/>
 
 </div>
