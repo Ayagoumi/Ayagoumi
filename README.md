@@ -63,7 +63,7 @@
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
   	  <li><b>OS:</b> macOS Ventura</li>
-	    <li><b>Laptop: </b> MacBook Pro (M2 2023)</li>
+	    <li><b>Laptop: </b> MacBook Pro (M3 Max 2024)</li>
   	    <li><b>Browser: </b> Firefox Web Browser</li>
 	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
 	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
