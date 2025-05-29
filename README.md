@@ -19,23 +19,15 @@
 
 ### Talking about Personal Stuff:
 
-<!-- - 🔭 &nbsp; Currently working at [Chain4Travel](https://chain4travel.com/) -->
+- 🔭 &nbsp; Currently working at [Permian Labs](https://permianlabs.xyz/)
 - 🛠 &nbsp; I’m currently learning/working with **ReactJs, VueJs, Next.js, Tailwind CSS, TypeScript, etc**
 - 🚀 &nbsp; On the road to becoming a Smart contract developer.
 - 👯 &nbsp; I’m looking to collaborate on **any React.js / Next.js, Solidity** project.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/ayagoumi).
 - 📫 &nbsp; How to reach me **[agoumi94@icloud.com](agoumi94@icloud.com)**
 - 👾 &nbsp; Fun fact **I'm the greatest Apex Legends player**
-<!-- - 📝 &nbsp; Checkout my [Resume](https://github.com/ayagoumi/ayagoumi/blob/master/resume.pdf). -->
+- 📝 &nbsp; Checkout my [Potfolio](https://agoumi.me/).
 
-
-<details>	
-  <summary><b> 42 Profile Card</summary>
-
-  <br />
-
-<img src="https://badge42.vercel.app/api/v2/clavp6tus00400gkumtvfi9ym/stats?cursusId=21&coalitionId=73" alt="ayagoumi's 42 stats" />
-</details>
 
 <details>	
   <summary><b>☄️ Github Streaks</b></summary>
