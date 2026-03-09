@@ -19,7 +19,6 @@
 
 ### Talking about Personal Stuff:
 
-- 🔭 &nbsp; Currently working at [Permian Labs](https://permianlabs.xyz/)
 - 🛠 &nbsp; I’m currently learning/working with **ReactJs, VueJs, Next.js, Tailwind CSS, TypeScript, etc**
 - 🚀 &nbsp; On the road to becoming a Smart contract developer.
 - 👯 &nbsp; I’m looking to collaborate on **any React.js / Next.js, Solidity** project.
