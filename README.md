@@ -25,7 +25,6 @@
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/ayagoumi).
 - 📫 &nbsp; How to reach me **[agoumi94@icloud.com](agoumi94@icloud.com)**
 - 👾 &nbsp; Fun fact **I'm the greatest Apex Legends player**
-- 📝 &nbsp; Checkout my [Potfolio](https://agoumi.me/).
 
 
 <details>	
