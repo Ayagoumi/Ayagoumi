@@ -1,7 +1,9 @@
-[Linkedin Badge](https://www.linkedin.com/in/agoumiayoub/)
-[Website Badge](https://agoumi.me/)
-[Twitter Badge](https://twitter.com/AyoubAgoumi)
-GitHub followers
+<p align="center">
+  <a href="https://agoumi.me"><img src="https://img.shields.io/badge/Portfolio-agoumi.me-0e75b6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/agoumiayoub/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:agoumi94@icloud.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=Ayagoumi&label=Profile%20views&color=0e75b6&style=flat" alt="Ayagoumi" /> </p>
+</p>
 
 # Hi 👋, I'm Ayoub Agoumi
 
@@ -21,6 +23,10 @@ I am a Front-End Developer 🕸️. I'm a passionate learner who's always willin
 - ⚡   Fun fact: **I'm the worst Apex Legends gamer**.
 
 ### ☄️ Github Streaks
+
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=Ayagoumi&theme=radical" alt="GitHub Streak" /></a>
+</p>
 
 <details>
   <summary><b>⚡ Github Stats</b></summary>
