@@ -35,18 +35,22 @@ I am a Front-End Developer 🕸️. I'm a passionate learner who's always willin
   <br/>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ayagoumi&theme=dracula"/>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayagoumi&theme=dracula"/>
+  <br />
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayagoumi&theme=dracula"/>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayagoumi&theme=dracula"/>
 </details>
 
-<div align="center"><a href="https://www.buymeacoffee.com/ayagoumi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a></div>
 <div align="center">
 
 ### ⚙️ Things I use to get stuff done
 
+<details>
 - **OS:** MacOS Monterey
 - **Laptop:** MacBook Pro (i9 2019)
 - **Browser:** Firefox Web Browser
 - **Terminal:** ZSH: Oh My Zsh (PowerLevel10k)
 - **Code Editor:** VSCode - The best editor out there.
 - **To Stay Updated:** Dev.to, Medium, Linkedin, Twitter and StackOverflow (~Don't tell anyone~).
+</details>
+
+<div align="center"><a href="https://www.buymeacoffee.com/ayagoumi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a></div>
