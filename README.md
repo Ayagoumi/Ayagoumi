@@ -42,13 +42,11 @@ I am a Front-End Developer 🕸️. I'm a passionate learner who's always willin
 
 ### ⚙️ Things I use to get stuff done
 
-<details>
 - **OS:** MacOS Monterey
 - **Laptop:** MacBook Pro (i9 2019)
 - **Browser:** Firefox Web Browser
 - **Terminal:** ZSH: Oh My Zsh (PowerLevel10k)
 - **Code Editor:** VSCode - The best editor out there.
 - **To Stay Updated:** Dev.to, Medium, Linkedin, Twitter and StackOverflow (~Don't tell anyone~).
-</details>
 
 <div align="center"><a href="https://www.buymeacoffee.com/ayagoumi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a></div>
