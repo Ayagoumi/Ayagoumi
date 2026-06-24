@@ -40,8 +40,6 @@ I am a Front-End Developer 🕸️. I'm a passionate learner who's always willin
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayagoumi&theme=dracula"/>
 </details>
 
-<div align="center">
-
 ### ⚙️ Things I use to get stuff done
 
 <details>
