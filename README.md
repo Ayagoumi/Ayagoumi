@@ -23,9 +23,7 @@ I am a Front-End Developer 🕸️. I'm a passionate learner who's always willin
 
 <details>
   <summary><b>☄️ Github Streaks</b></summary>
-  <p align="center">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=Ayagoumi&theme=radical" alt="GitHub Streak" /></a>
-  </p>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=Ayagoumi&theme=radical" alt="GitHub Streak" /></a>
 </details>
 
 <details>
