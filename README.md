@@ -13,7 +13,6 @@ I am a Front-End Developer 🕸️. I'm a passionate learner who's always willin
 
 ### Talking about Personal Stuffs:
 
-- 🔭   I'm currently working at **[Chain4Travel](https://chain4travel.com/)**
 - 🛠️   I'm currently learning / working with **VueJs, Next.js, Tailwind CSS, JavaScript, TypeScript, etc**.
 - 🚀   On a road to becoming a **Full Stack Developer**.
 - 👯   I'm looking to collaborate on any **React.js / Next.js**.
