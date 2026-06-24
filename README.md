@@ -2,7 +2,7 @@
   <a href="https://agoumi.me"><img src="https://img.shields.io/badge/Portfolio-agoumi.me-0e75b6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/agoumiayoub/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:agoumi94@icloud.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=Ayagoumi&label=Profile%20views&color=0e75b6&style=flat" alt="Ayagoumi" /> </p>
+  <p align="center"><img src="https://komarev.com/ghpvc/?username=Ayagoumi&label=Profile%20views&color=0e75b6&style=flat" alt="Ayagoumi" /></p>
 </p>
 
 # Hi 👋, I'm Ayoub Agoumi
@@ -54,7 +54,7 @@ I'm a Senior Frontend Developer with 5+ years of experience building Web3 and De
 <details>
   <summary><b>☄️ Github Streaks</b></summary>
   <br />
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=Ayagoumi&theme=radical" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=Ayagoumi&theme=dracula" alt="GitHub Streak" /></a>
 </details>
 
 <details>
@@ -66,7 +66,6 @@ I'm a Senior Frontend Developer with 5+ years of experience building Web3 and De
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayagoumi&theme=dracula"/>
   <br />
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayagoumi&theme=dracula"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayagoumi&theme=dracula"/>
 </details>
 
 ### ⚙️ Things I use to get stuff done
