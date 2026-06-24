@@ -70,11 +70,9 @@ I'm a Senior Frontend Developer with 5+ years of experience building Web3 and De
 
 ### ⚙️ Things I use to get stuff done
 
-- **OS:** MacOS Monterey
+- **OS:** MacOS Golden Gate
 - **Laptop:** MacBook Pro (M3 2024)
-- **Browser:** Firefox Web Browser
+- **Browser:** Brave Web Browser
 - **Terminal:** ZSH: Oh My Zsh (PowerLevel10k)
-- **Code Editor:** VSCode - The best editor out there.
+- **Code Editor:** Cursor - The best editor out there.
 - **To Stay Updated:** Claude, Dev.to, Medium, Linkedin, Twitter and StackOverflow (~Don't tell anyone~).
-
-<div align="center"><a href="https://www.buymeacoffee.com/ayagoumi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a></div>
