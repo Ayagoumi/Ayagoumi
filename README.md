@@ -22,11 +22,12 @@ I am a Front-End Developer 🕸️. I'm a passionate learner who's always willin
 - 📫   How to reach me: **[agoumi94@icloud.com](mailto:agoumi94@icloud.com)**
 - ⚡   Fun fact: **I'm the worst Apex Legends gamer**.
 
-### ☄️ Github Streaks
-
-<p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=Ayagoumi&theme=radical" alt="GitHub Streak" /></a>
-</p>
+<details>
+  <summary><b>☄️ Github Streaks</b></summary>
+  <p align="center">
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=Ayagoumi&theme=radical" alt="GitHub Streak" /></a>
+  </p>
+</details>
 
 <details>
   <summary><b>⚡ Github Stats</b></summary>
